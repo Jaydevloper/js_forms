@@ -1,6 +1,5 @@
 
-1-vazifa
-let a = prompt('')
+let a = prompt('son kiriting')
 if (a%2 ==! 0){
     alert( a + " soni " +`toq son`);
 } else if(a%2 == 0){
